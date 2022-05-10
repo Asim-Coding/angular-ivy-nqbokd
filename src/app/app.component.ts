@@ -6,7 +6,7 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular  framework' + VERSION.major;
+  name = 'Angular  framework stater template bulding' + VERSION.major;
 }
 
 
